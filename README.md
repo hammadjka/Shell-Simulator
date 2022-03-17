@@ -2,7 +2,7 @@
 Simulates a basic shell. Executes shell commands as well as custom built commands using multiple processes and pipes.
 
 Shell-Simulator recognizes the following lines  
-    It recognizes lines of the form $<VAR>=<value>  
+    It recognizes lines of the form $VAR=value 
     It recognizes lines of the form <command> <arg0> <arg1> … <argN>, where <command> is a name of built-in command.  
 
 Shell-Simulator supports the following built-in commands  
