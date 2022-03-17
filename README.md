@@ -16,7 +16,7 @@ Shell-Simulator supports two modes.
       Prints out a prompt  
       Reads line  
       If the line is non-valid, prints an error message, else executes the command.  
-  
+    
     Script mode  
       As the name suggests, takes a script as a txt file of commands.  
       Executes the commands in order.  
